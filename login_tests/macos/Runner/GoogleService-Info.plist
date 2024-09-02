@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA6pgvLeUEGudpgl7NH-i3MgTe7Wh8BPic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1014902866782</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.loginTests.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>login-test-da004</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-test-da004.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1014902866782:ios:bad3e486b25111865645cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-test-da004-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

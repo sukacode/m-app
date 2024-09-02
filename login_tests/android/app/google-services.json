@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1014902866782",
+    "firebase_url": "https://login-test-da004-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "login-test-da004",
+    "storage_bucket": "login-test-da004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014902866782:android:0ffde2037bf302145645cf",
+        "android_client_info": {
+          "package_name": "com.example.login_tests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeM5TFFdyN2JwThwb3UbgDrM1EKDUSNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
